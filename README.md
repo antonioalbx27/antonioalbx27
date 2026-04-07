@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/OX9W_LwDq1QAAAAC/goku-black-zamasu.gif" alt="Banner animado de Goku Black" />
+  <img src="https://media1.tenor.com/m/OX9W_LwDq1QAAAAC/goku-black-zamasu.gif" height="200" alt="Banner animado de Goku Black" />
 </div>
 
 <h1 align="center">¡Hola, soy Antonio! 👋</h1>
