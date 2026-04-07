@@ -1,6 +1,6 @@
-<div align="center">
+<p  align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVsa2NucWl3dzZ5NDN0eGphYzQ1cHBteGlnZGFiNXB0Ymd5d2oxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vxIVV2DEkDt1e1W7kE/giphy.gif" width="100%" height="200" alt="Banner animado de Goku Black" />
-</div>
+</p>
 
 <h1 align="center">¡Hola, soy Antonio! 👋</h1>
 
