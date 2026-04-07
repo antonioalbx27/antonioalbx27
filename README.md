@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/OX9W_LwDq1QAAAAC/goku-black-zamasu.gif" width="100%" alt="Banner animado de Goku Black" />
-</p>
+<div align="center">
+  <img src="https://media1.tenor.com/m/OX9W_LwDq1QAAAAC/goku-black-zamasu.gif" alt="Banner animado de Goku Black" />
+</div>
 
 <h1 align="center">¡Hola, soy Antonio! 👋</h1>
 
