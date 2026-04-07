@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antonioalbx27/antonioalbx27/main/assets/blackgokuedit.gif" width="100%" />
+  <img src="assets\blackgokuedit.gif" width="100%" />
 </p>
 
 <h1 align="center">¡Hola, soy Antonio! 👋</h1>
