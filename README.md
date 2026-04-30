@@ -75,6 +75,7 @@ Estudiante de 2º de DAM (Desarrollo de Aplicaciones Multiplataforma). Actualmen
   <a href="https://linkedin.com/in/antonio-albarrán-joya-025369397" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn" />
   </a>
+  <br>
   <a href="mailto:aalbarran2705@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
