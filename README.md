@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets\blackgokuedit.gif" width="50%" />
-</p>
+
 
 <h1 align="center">¡Hola, soy Antonio! 👋</h1>
 
